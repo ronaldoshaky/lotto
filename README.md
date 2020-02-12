@@ -1,2 +1,2 @@
 # lotto
-I want to predict the Euromillions haha
+I want to predict the best combinations for the Euromillions.
